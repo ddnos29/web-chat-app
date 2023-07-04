@@ -45,7 +45,7 @@ const Register = () => {
       window.location.href = "./chat";
     }
   }, []);
-  console.log(NEXT_PUBLIC_BACKENDURL)
+  console.log(process.env.NEXT_PUBLIC_BACKENDURL)
   const registerUser = async (e) => {
     e.preventDefault();
     if (pass !== cpass) {
