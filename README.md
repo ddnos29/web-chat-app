@@ -1,34 +1,5 @@
 # <h1 align="center">Web Chat App</h1>
 
-## Login Page
-![image](https://user-images.githubusercontent.com/88134306/227575211-22ae017e-d0c8-421f-9440-d326233a3d75.png)
-
-## Register Page
-![image](https://user-images.githubusercontent.com/88134306/216806064-6ad51c10-355c-4b7d-9753-eddbea10a3e7.png)
-
-## OTP Page
-![image](https://user-images.githubusercontent.com/88134306/227575608-99bd80db-b5d4-4e6d-bae5-2e8b09729643.png)
-
-## OTP Email
-![image](https://user-images.githubusercontent.com/88134306/227575982-b580f1f8-0b17-47ea-85ef-5c21112eaf5b.png)
-
-## Profile
-![image](https://user-images.githubusercontent.com/88134306/216806091-dd33ecbe-7fb3-431d-8444-3a4dc7d5fd3e.png)
-
-## Chat Page
-![image](https://user-images.githubusercontent.com/88134306/216806005-90dd588a-b771-4f92-b8e7-1e857f7567a0.png)
-
-## New Chat
-![image](https://user-images.githubusercontent.com/88134306/216806020-a90a267c-3957-4be8-9e1f-c3a1a4d19a93.png)
-
-## Dark Mode
-![image](https://user-images.githubusercontent.com/88134306/227576773-06c3a1d2-0a1a-4ab2-8d1f-e06d71408410.png)
-
-## Light Mode
-![image](https://user-images.githubusercontent.com/88134306/227576849-78bd8cd5-f148-4633-9543-bc72feea7126.png)
-
-## Message Statistics
-![image](https://user-images.githubusercontent.com/88134306/227576979-408f0bfb-9980-49ba-9228-c54d70b566b1.png)
 
 
 ## Deployment
